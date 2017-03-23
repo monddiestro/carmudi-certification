@@ -17,7 +17,7 @@ div {
 .row {
 	max-width: 100%;
 }
-.title { display:none;margin-left:120px; }
+.cms-static-page .title { margin-left:120px; }
 @media (max-width: 768px) {
 	.title {
 		margin-left:10px;
