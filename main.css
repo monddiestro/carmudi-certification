@@ -7,6 +7,23 @@ div {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+.cms-static-page .cms-content-inner {
+    background-color: #f3f3f3;
+    border: none;
+    margin-bottom: 0;
+    padding:0;  
+}
+.row {
+	max-width: 100%;
+}
+.title { display:none;margin-left:120px; }
+@media (max-width: 768px) {
+	.title {
+		margin-left:10px;
+	}
+}
+
 .image {
 	width: 350px;
 	display: block;
