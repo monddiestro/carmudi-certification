@@ -14,6 +14,9 @@ div {
     margin-bottom: 0;
     padding:0;  
 }
+.column > h1 {
+    display:none;
+}
 .row {
 	max-width: 100%;
 }
