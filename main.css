@@ -4,7 +4,7 @@
 div {
 	display: block;
 }
-.row-title > .column > h1 {
+.main-section .column > h1 {
 	display:none;
 }
 * {
