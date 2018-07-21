@@ -1323,7 +1323,6 @@ input[type="button"].btn-block {
   width: 100%;
 }
 .cms-static-page .cms-content-inner ul li:before {
-    content: '';
-    font-family: fontello;
-    margin-right: .375rem;
+    content: '' !important;
+    margin-right: 0 !important;
 }
